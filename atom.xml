@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title><![CDATA[terilys‘s blog]]></title>
-  
+  <subtitle><![CDATA[subtitle]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://terilys.com/"/>
   <updated>2015-03-30T06:49:42.000Z</updated>
